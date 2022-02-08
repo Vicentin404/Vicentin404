@@ -1,4 +1,4 @@
-## Olá, me chamo Maycon. Bem vindo ao meu perfil do GitHub sou um estudante e um entusiasta na área do Front-end!
+## Olá, me chamo Maycon. Bem-vindo ao meu perfil do GitHub sou um estudante e um entusiasta na área do Front-end!
 
 - 📚 Cursando o 2º semestre em <strong>Análise e Desenvolvimento de Sistemas</strong> - <a href="https://www.uninter.com/">UNINTER</a>.
 - 🔭 Atualmente estou estudando e trabalhando nos meus projetos individuais e construindo o meu portfólio.
