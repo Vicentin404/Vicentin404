@@ -1,8 +1,9 @@
-## Olá eu sou o Maycon Vicentin, estudante e entusiasta de Front-end!
+## Olá eu me chamo Maycon, bem vindo ao meu perfil do GitHub sou um estudante e um entusiasta na área do Front-end!
 
+- 📚 Cursando o segundo semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> - <a href="https://www.uninter.com/">UNINTER</a>
 - 🔭 Atualmente estou estudando e trabalhando nos meus projetos individuais e construindo meu portfólio.
 - 🌱 Estou aprendendo HTML5, CSS3 e JavaScript com o <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>
-- 📫 Você pode me contatar por aqui: <a href="mailto:maycondias@icloud.com" target="_blank">e-mail</a>
+- 📫 Você pode me contatar por <a href="mailto:maycondias@icloud.com" target="_blank">e-mail</a> ou se preferir me mande uma mensagem no <a href="https://api.whatsapp.com/send?phone=5541985314478&text=Ol%C3%A1%20Maycon%2C%20gostaria%20de%20falar%20com%20voc%C3%AA!">WhatsApp</a>.
 
 <div align="center">
   <a href="https://github.com/Vicentin404">
@@ -18,7 +19,7 @@
 </div>
  <br>
 <div> 
-  <a href="https://www.youtube.com/channel/UCV1SXD0prhUY-6NVn34iGzQ" target="__blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCV1SXD0prhUY-6NVn34iGzQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mi_chiamo_vicentin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vicentin94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
