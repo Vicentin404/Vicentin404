@@ -1,8 +1,9 @@
 ## Olá, me chamo Maycon. Bem-vindo ao meu perfil do GitHub.
 
-- 📚 Cursando o 2º semestre em <strong>Análise e Desenvolvimento de Sistemas</strong> - <a href="https://www.uninter.com/" target="_blank">UNINTER</a>.
-- 🔭 Atualmente estudando e trabalhando em meus projetos individuais e construindo o meu portfólio.
-- 🌱 Estou aprendendo <strong>HTML5</strong>, <strong>CSS3</strong> e <strong>JavaScript</strong> com o <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a>.
+- 📚 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> - <a href="https://www.uninter.com/" target="_blank">UNINTER</a>.
+- 📚 Cursando pós-graduação em <strong>Segurança e Defesa Cibernética</strong> - <a href="https://www.uninter.com/" target="_blank">UNINTER</a>.
+- 🌱 Cursando <strong>Metasploit Framework Expert</strong>, com o professor <a href="https://academy.hackershive.io/" target="_blank">Daniel Donda</a>.
+
 - 📫 Você pode me contatar por <a href="mailto:maycondias@icloud.com" target="_blank">e-mail</a> ou se preferir me mande uma mensagem no <a href="https://api.whatsapp.com/send?phone=5541985314478&text=Ol%C3%A1%20Maycon%2C%20gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank">WhatsApp</a>.
 
 <div align="center">
